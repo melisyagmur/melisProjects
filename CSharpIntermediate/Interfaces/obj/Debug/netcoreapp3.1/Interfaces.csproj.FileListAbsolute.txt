@@ -1,0 +1,14 @@
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.exe
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.deps.json
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.json
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.dev.json
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.AssemblyReference.cache
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.genruntimeconfig.cache

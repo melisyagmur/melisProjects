@@ -1,0 +1,14 @@
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\DBConnection\bin\Debug\netcoreapp3.1\DBConnection.exe
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\DBConnection\bin\Debug\netcoreapp3.1\DBConnection.deps.json
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\DBConnection\bin\Debug\netcoreapp3.1\DBConnection.runtimeconfig.json
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\DBConnection\bin\Debug\netcoreapp3.1\DBConnection.runtimeconfig.dev.json
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\DBConnection\bin\Debug\netcoreapp3.1\DBConnection.dll
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\DBConnection\bin\Debug\netcoreapp3.1\DBConnection.pdb
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\DBConnection\obj\Debug\netcoreapp3.1\DBConnection.csproj.AssemblyReference.cache
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\DBConnection\obj\Debug\netcoreapp3.1\DBConnection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\DBConnection\obj\Debug\netcoreapp3.1\DBConnection.AssemblyInfoInputs.cache
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\DBConnection\obj\Debug\netcoreapp3.1\DBConnection.AssemblyInfo.cs
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\DBConnection\obj\Debug\netcoreapp3.1\DBConnection.csproj.CoreCompileInputs.cache
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\DBConnection\obj\Debug\netcoreapp3.1\DBConnection.dll
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\DBConnection\obj\Debug\netcoreapp3.1\DBConnection.pdb
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\DBConnection\obj\Debug\netcoreapp3.1\DBConnection.genruntimeconfig.cache

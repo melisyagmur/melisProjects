@@ -1,0 +1,14 @@
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\ConsoleApp2\bin\Debug\netcoreapp3.1\StackOverFlow.exe
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\ConsoleApp2\bin\Debug\netcoreapp3.1\StackOverFlow.deps.json
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\ConsoleApp2\bin\Debug\netcoreapp3.1\StackOverFlow.runtimeconfig.json
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\ConsoleApp2\bin\Debug\netcoreapp3.1\StackOverFlow.runtimeconfig.dev.json
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\ConsoleApp2\bin\Debug\netcoreapp3.1\StackOverFlow.dll
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\ConsoleApp2\bin\Debug\netcoreapp3.1\StackOverFlow.pdb
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\ConsoleApp2\obj\Debug\netcoreapp3.1\StackOverFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\ConsoleApp2\obj\Debug\netcoreapp3.1\StackOverFlow.AssemblyInfoInputs.cache
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\ConsoleApp2\obj\Debug\netcoreapp3.1\StackOverFlow.AssemblyInfo.cs
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\ConsoleApp2\obj\Debug\netcoreapp3.1\StackOverFlow.csproj.CoreCompileInputs.cache
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\ConsoleApp2\obj\Debug\netcoreapp3.1\StackOverFlow.dll
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\ConsoleApp2\obj\Debug\netcoreapp3.1\StackOverFlow.pdb
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\ConsoleApp2\obj\Debug\netcoreapp3.1\StackOverFlow.genruntimeconfig.cache
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\ConsoleApp2\obj\Debug\netcoreapp3.1\StackOverFlow.csproj.AssemblyReference.cache

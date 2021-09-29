@@ -1,0 +1,14 @@
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\ConsoleApp1\bin\Debug\netcoreapp3.1\StopWatch.exe
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\ConsoleApp1\bin\Debug\netcoreapp3.1\StopWatch.deps.json
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\ConsoleApp1\bin\Debug\netcoreapp3.1\StopWatch.runtimeconfig.json
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\ConsoleApp1\bin\Debug\netcoreapp3.1\StopWatch.runtimeconfig.dev.json
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\ConsoleApp1\bin\Debug\netcoreapp3.1\StopWatch.dll
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\ConsoleApp1\bin\Debug\netcoreapp3.1\StopWatch.pdb
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\ConsoleApp1\obj\Debug\netcoreapp3.1\StopWatch.csproj.AssemblyReference.cache
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\ConsoleApp1\obj\Debug\netcoreapp3.1\StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\ConsoleApp1\obj\Debug\netcoreapp3.1\StopWatch.AssemblyInfoInputs.cache
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\ConsoleApp1\obj\Debug\netcoreapp3.1\StopWatch.AssemblyInfo.cs
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\ConsoleApp1\obj\Debug\netcoreapp3.1\StopWatch.csproj.CoreCompileInputs.cache
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\ConsoleApp1\obj\Debug\netcoreapp3.1\StopWatch.dll
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\ConsoleApp1\obj\Debug\netcoreapp3.1\StopWatch.pdb
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\ConsoleApp1\obj\Debug\netcoreapp3.1\StopWatch.genruntimeconfig.cache

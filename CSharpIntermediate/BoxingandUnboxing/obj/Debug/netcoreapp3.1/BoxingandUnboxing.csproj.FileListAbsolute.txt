@@ -1,0 +1,14 @@
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\BoxingandUnboxing\bin\Debug\netcoreapp3.1\BoxingandUnboxing.exe
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\BoxingandUnboxing\bin\Debug\netcoreapp3.1\BoxingandUnboxing.deps.json
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\BoxingandUnboxing\bin\Debug\netcoreapp3.1\BoxingandUnboxing.runtimeconfig.json
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\BoxingandUnboxing\bin\Debug\netcoreapp3.1\BoxingandUnboxing.runtimeconfig.dev.json
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\BoxingandUnboxing\bin\Debug\netcoreapp3.1\BoxingandUnboxing.dll
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\BoxingandUnboxing\bin\Debug\netcoreapp3.1\BoxingandUnboxing.pdb
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\BoxingandUnboxing\obj\Debug\netcoreapp3.1\BoxingandUnboxing.csproj.AssemblyReference.cache
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\BoxingandUnboxing\obj\Debug\netcoreapp3.1\BoxingandUnboxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\BoxingandUnboxing\obj\Debug\netcoreapp3.1\BoxingandUnboxing.AssemblyInfoInputs.cache
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\BoxingandUnboxing\obj\Debug\netcoreapp3.1\BoxingandUnboxing.AssemblyInfo.cs
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\BoxingandUnboxing\obj\Debug\netcoreapp3.1\BoxingandUnboxing.csproj.CoreCompileInputs.cache
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\BoxingandUnboxing\obj\Debug\netcoreapp3.1\BoxingandUnboxing.dll
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\BoxingandUnboxing\obj\Debug\netcoreapp3.1\BoxingandUnboxing.pdb
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\BoxingandUnboxing\obj\Debug\netcoreapp3.1\BoxingandUnboxing.genruntimeconfig.cache

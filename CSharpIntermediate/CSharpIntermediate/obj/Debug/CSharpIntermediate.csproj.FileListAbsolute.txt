@@ -1,0 +1,20 @@
+C:\Projects\CSharpIntermediate\CSharpIntermediate\bin\Debug\CSharpIntermediate.exe.config
+C:\Projects\CSharpIntermediate\CSharpIntermediate\bin\Debug\CSharpIntermediate.exe
+C:\Projects\CSharpIntermediate\CSharpIntermediate\bin\Debug\CSharpIntermediate.pdb
+C:\Projects\CSharpIntermediate\CSharpIntermediate\obj\Debug\CSharpIntermediate.csprojResolveAssemblyReference.cache
+C:\Projects\CSharpIntermediate\CSharpIntermediate\obj\Debug\CSharpIntermediate.exe
+C:\Projects\CSharpIntermediate\CSharpIntermediate\obj\Debug\CSharpIntermediate.pdb
+C:\Users\melis\OneDrive - metu.edu.tr\Masaüstü\CSharpIntermediate\CSharpIntermediate\CSharpIntermediate\bin\Debug\CSharpIntermediate.exe.config
+C:\Users\melis\OneDrive - metu.edu.tr\Masaüstü\CSharpIntermediate\CSharpIntermediate\CSharpIntermediate\bin\Debug\CSharpIntermediate.exe
+C:\Users\melis\OneDrive - metu.edu.tr\Masaüstü\CSharpIntermediate\CSharpIntermediate\CSharpIntermediate\bin\Debug\CSharpIntermediate.pdb
+C:\Users\melis\OneDrive - metu.edu.tr\Masaüstü\CSharpIntermediate\CSharpIntermediate\CSharpIntermediate\obj\Debug\CSharpIntermediate.csproj.AssemblyReference.cache
+C:\Users\melis\OneDrive - metu.edu.tr\Masaüstü\CSharpIntermediate\CSharpIntermediate\CSharpIntermediate\obj\Debug\CSharpIntermediate.csproj.CoreCompileInputs.cache
+C:\Users\melis\OneDrive - metu.edu.tr\Masaüstü\CSharpIntermediate\CSharpIntermediate\CSharpIntermediate\obj\Debug\CSharpIntermediate.exe
+C:\Users\melis\OneDrive - metu.edu.tr\Masaüstü\CSharpIntermediate\CSharpIntermediate\CSharpIntermediate\obj\Debug\CSharpIntermediate.pdb
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\CSharpIntermediate\bin\Debug\CSharpIntermediate.exe.config
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\CSharpIntermediate\bin\Debug\CSharpIntermediate.exe
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\CSharpIntermediate\bin\Debug\CSharpIntermediate.pdb
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\CSharpIntermediate\obj\Debug\CSharpIntermediate.csproj.AssemblyReference.cache
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\CSharpIntermediate\obj\Debug\CSharpIntermediate.csproj.CoreCompileInputs.cache
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\CSharpIntermediate\obj\Debug\CSharpIntermediate.exe
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\CSharpIntermediate\obj\Debug\CSharpIntermediate.pdb

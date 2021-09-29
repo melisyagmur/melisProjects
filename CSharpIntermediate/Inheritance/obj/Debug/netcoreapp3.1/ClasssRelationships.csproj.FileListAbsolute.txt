@@ -1,0 +1,14 @@
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\Inheritance\bin\Debug\netcoreapp3.1\ClasssRelationships.exe
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\Inheritance\bin\Debug\netcoreapp3.1\ClasssRelationships.deps.json
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\Inheritance\bin\Debug\netcoreapp3.1\ClasssRelationships.runtimeconfig.json
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\Inheritance\bin\Debug\netcoreapp3.1\ClasssRelationships.runtimeconfig.dev.json
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\Inheritance\bin\Debug\netcoreapp3.1\ClasssRelationships.dll
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\Inheritance\bin\Debug\netcoreapp3.1\ClasssRelationships.pdb
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\Inheritance\obj\Debug\netcoreapp3.1\ClasssRelationships.csproj.AssemblyReference.cache
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\Inheritance\obj\Debug\netcoreapp3.1\ClasssRelationships.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\Inheritance\obj\Debug\netcoreapp3.1\ClasssRelationships.AssemblyInfoInputs.cache
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\Inheritance\obj\Debug\netcoreapp3.1\ClasssRelationships.AssemblyInfo.cs
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\Inheritance\obj\Debug\netcoreapp3.1\ClasssRelationships.csproj.CoreCompileInputs.cache
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\Inheritance\obj\Debug\netcoreapp3.1\ClasssRelationships.dll
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\Inheritance\obj\Debug\netcoreapp3.1\ClasssRelationships.pdb
+C:\Users\melis\Desktop\Prota\Deneme\CSharpIntermediate\CSharpIntermediate\Inheritance\obj\Debug\netcoreapp3.1\ClasssRelationships.genruntimeconfig.cache
